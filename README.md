@@ -2,7 +2,7 @@
 
 ### A Passionate Data Scientist and Business Analyst.
 
-<img align="right" alt="Coding" width="400" height="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
+<img align="right" alt="Coding" width="300" height="3250" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
 
 - 🔭 I’m currently working on enhancing data-driven decision-making at [CVS Health](https://www.cvshealth.com/)
 - 🌱 I’m currently exploring advanced machine learning techniques and cloud solutions
