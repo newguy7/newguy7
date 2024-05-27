@@ -2,7 +2,8 @@
 
 ### A Passionate Data Scientist and Business Analyst.
 
-<img align="right" alt="Data Science" width="400" src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" />
+<img align="right" alt="Data Science" width="400" src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" />
+
 
 
 - 🔭 I’m currently working on enhancing data-driven decision-making at [CVS Health](https://www.cvshealth.com/)
