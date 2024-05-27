@@ -2,7 +2,7 @@
 
 ### A Passionate Data Scientist and Business Analyst.
 
-<img align="right" alt="Coding" width="350" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif" />
 
 - 🔭 I’m currently working on enhancing data-driven decision-making at [CVS Health](https://www.cvshealth.com/)
 - 🌱 I’m currently exploring advanced machine learning techniques and cloud solutions
@@ -10,7 +10,6 @@
 - 💬 Ask me about Python, SQL, and Machine Learning
 - 📫 How to reach me: [anujpandey2095@gmail.com](mailto:anujpandey2095@gmail.com)
 - ⚡ Fun fact: I enjoy EAT-SLEEP-CODE-REPEAT 
-
 
 ## 🌐 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anoozj/) 
