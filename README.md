@@ -2,7 +2,8 @@
 
 ### A Passionate Data Scientist and Business Analyst.
 
-<img align="right" alt="Data Science" width="400" src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" />
+<img align="right" alt="Data Science" width="400" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" />
+
 
 
 
