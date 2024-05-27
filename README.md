@@ -2,7 +2,7 @@
 
 ### A Passionate Data Scientist and Business Analyst.
 
-<img align="right" alt="Coding" width="300" height="190" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
+<img align="right" alt="Coding" width="300" height="195" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
 
 - 🌱 I’m currently exploring advanced machine learning techniques and cloud solutions
 - 👯 I’m looking to collaborate on data science and AI projects
