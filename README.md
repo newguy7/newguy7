@@ -8,6 +8,8 @@
 - 💬 Ask me about Python, SQL, and Machine Learning
 - 📫 How to reach me: [anujpandey2095@gmail.com](mailto:anujpandey2095@gmail.com)
 - ⚡ Fun fact: I enjoy EAT-SLEEP-CODE-REPEAT
+- 
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
 
 ## 🌐 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anoozj/) 
