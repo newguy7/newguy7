@@ -4,7 +4,6 @@
 
 <img align="right" alt="Coding" width="320" height="225" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
 
-- 🔭 I’m currently working on enhancing data-driven decision-making at [CVS Health](https://www.cvshealth.com/)
 - 🌱 I’m currently exploring advanced machine learning techniques and cloud solutions
 - 👯 I’m looking to collaborate on data science and AI projects
 - 💬 Ask me about Python, SQL, and Machine Learning
