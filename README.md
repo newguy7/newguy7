@@ -1,8 +1,6 @@
 # Hi 👋, I'm Anuj Pandey
 
-### A Passionate Data Scientist and Business Analyst from Nepal
-
-![Profile views](https://gpvc.arturio.dev/newguy7)
+### A Passionate Data Scientist and Business Analyst.
 
 - 🔭 I’m currently working on enhancing data-driven decision-making at [CVS Health](https://www.cvshealth.com/)
 - 🌱 I’m currently exploring advanced machine learning techniques and cloud solutions
@@ -22,7 +20,6 @@
 ![Jupyter](https://img.shields.io/badge/-Jupyter-%23F37626?style=flat-square&logo=jupyter)
 ![PowerBI](https://img.shields.io/badge/-PowerBI-%23F2C811?style=flat-square&logo=powerbi)
 ![Azure](https://img.shields.io/badge/-Azure-%230072C6?style=flat-square&logo=microsoft-azure)
-![GCP](https://img.shields.io/badge/-GCP-%234285F4?style=flat-square&logo=google-cloud)
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git)
 ![Tableau](https://img.shields.io/badge/-Tableau-%23E97627?style=flat-square&logo=tableau)
 ![scikit-learn](https://img.shields.io/badge/-scikit--learn-%23F7931E?style=flat-square&logo=scikit-learn)
@@ -32,7 +29,7 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=newguy7&layout=compact&theme=radical)
 
 ## 🏆 Achievements:
-- Led data-driven projects at CVS Health to enhance PBM member experience
+- Led data-driven projects to enhance PBM member experience
 - Improved pharmaceutical inventory forecasting models with a 15% increase in accuracy
 - Developed personalized patient engagement programs, boosting user satisfaction
 
@@ -40,32 +37,6 @@
 - [Project 1](#): Description of project 1 with a brief explanation.
 - [Project 2](#): Description of project 2 with a brief explanation.
 - [Project 3](#): Description of project 3 with a brief explanation.
-
-## 📜 Professional Experience:
-### CVS Health
-**Data Scientist**  
-*Oct 2021 - Present*  
-- Spearheaded data-driven projects to enhance the PBM member experience
-- Improved pharmaceutical inventory forecasting models, achieving a 15% increase in accuracy
-- Developed personalized patient engagement programs
-
-### The Estée Lauder Companies
-**Business Data Analyst (E-Commerce & Retail)**  
-*June 2019 - Sep 2021*  
-- Led cross-functional teams to deliver data analytics projects
-- Applied advanced analytical techniques and crafted compelling visualizations
-- Developed and presented complex data-driven insights to stakeholders
-
-### Porthos Home
-**E-commerce Data Analytics Lead (Marketing)**  
-*Sept 2018 - May 2019*  
-- Developed and executed strategic plans to drive traffic and improve conversion rates
-- Implemented promotional campaigns leading to a boost in revenue
-
-### Asian Paints
-**Business Sales Lead**  
-*June 2011 - Dec 2013*  
-- Provided strategic market insights and conducted comprehensive competitor analysis
 
 ## 🏫 Education:
 - **University of Bridgeport**, MS in Computer Science (Dec 2023, GPA: 3.93)
