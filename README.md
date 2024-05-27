@@ -5,7 +5,7 @@
 - 🔭 I’m currently working on enhancing data-driven decision-making at [CVS Health](https://www.cvshealth.com/)
 - 🌱 I’m currently exploring advanced machine learning techniques and cloud solutions
 - 👯 I’m looking to collaborate on data science and AI projects
-- 💬 Ask me about Python, SQL, Machine Learning, and Cloud Technologies
+- 💬 Ask me about Python, SQL, and Machine Learning
 - 📫 How to reach me: [anujpandey2095@gmail.com](mailto:anujpandey2095@gmail.com)
 - ⚡ Fun fact: I enjoy EAT-SLEEP-CODE-REPEAT
 
@@ -34,9 +34,9 @@
 - Developed personalized patient engagement programs, boosting user satisfaction
 
 ## 🔬 Projects:
-- [Project 1](#): Description of project 1 with a brief explanation.
-- [Project 2](#): Description of project 2 with a brief explanation.
-- [Project 3](#): Description of project 3 with a brief explanation.
+- [Credit Card Transactions Fraud Detection](https://github.com/newguy7/DataScienceProjects/blob/main/Credit_Card_Transactions_Fraud_Detection.ipynb): Developed a machine learning model to detect fraudulent credit card transactions.
+- [Emotion Classification Based on Users' Tweets](https://github.com/newguy7/DataScienceProjects/blob/main/Emotion_classification_based_on_users_tweets.ipynb): Built an NLP model to classify emotions from users' tweets.
+- [Automated Data Entry](https://github.com/newguy7/Automated-DataEntry): Created an automated system for data entry tasks using Python and related technologies.
 
 ## 🏫 Education:
 - **University of Bridgeport**, MS in Computer Science (Dec 2023, GPA: 3.93)
