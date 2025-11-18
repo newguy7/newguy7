@@ -1,6 +1,6 @@
 # Hi 👋, I'm Anuj Pandey
 
-### A Passionate Data Scientist and Data Analyst.
+### A Passionate Data Scientist..
 
 <img align="right" alt="Coding" width="300" height="198" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
 
